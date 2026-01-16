@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Siham | Digital Health & Systems Engineer
-
-I am a **Digital Engineering for Healthcare** Master's student with a solid background in **Electrical Engineering** and **Biomedical Maintenance**. My journey spans from hands-on industrial expertise to developing smart medical solutions.
-
+# 👋 Hi, I'm Siham 
+🎓 Master’s student in **Digital Engineering for Healthcare**  
+🔧 Background in **Electrical & Biomedical Engineering**  
+🧠 Interested in **IoT, embedded systems, and data-driven healthcare (Machine Learning & AI)**
 ---
 
 ### 🛠️ Technical Toolbox
@@ -22,22 +22,24 @@ I am a **Digital Engineering for Healthcare** Master's student with a solid back
 
 #### **Biomedical Engineering (Bachelor's)**
 * **Smart ECG Holter:** Improved Notch filters and integrated a WiFi module for real-time patient-doctor communication. Designed the **PCB** on Proteus.
-* **Hydro-Energy Solution:** Studied recycling RO water from clinics into a micro-hydroelectric plant to reduce energy costs.
 
 #### **Electrical Engineering (Associate's)**
 * **Smart Home System:** Early work on home automation and sensors.
-* **Grid Design (HTA/BTA):** Dimensioning electrical networks for housing developments using AutoCAD.
+---
+
+## 🎯 Current Focus
+
+- Digital health systems and connected medical devices  
+- IoT-based healthcare monitoring  
+- Learning Machine Learning & AI for healthcare applications  
+- Preparing and documenting academic projects on GitHub  
 
 ---
 
-### 📊 Professional Experience
-**Industrial Insurance Expert (2 years):**
-I previously worked as an Industrial Multi-Risk Expert, focusing on capital estimation, asset management, and technical loss assessment. This experience gave me a deep understanding of industrial risks and economic value.
-
----
-
-### 🌱 I am currently...
-- Exploring **Applied AI** for medical diagnostics.
-- Strengthening my skills in **Embedded Systems** and **Digital Health**.
 
 📫 **How to reach me:** http://linkedin.com/in/siham-ait-taleb-44631a206
+
+---
+
+⭐ *This profile will evolve as projects and learning progress.*
+
