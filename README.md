@@ -32,9 +32,6 @@
 - Digital health systems and connected medical devices  
 - IoT-based healthcare monitoring  
 - Learning Machine Learning & AI for healthcare applications  
-- Preparing and documenting academic projects on GitHub  
-
----
 
 
 📫 **How to reach me:** http://linkedin.com/in/siham-ait-taleb-44631a206
