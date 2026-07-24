@@ -7,17 +7,15 @@
 
 ---
 
-### 🧬 About Me
+###  About Me
 
 - 🎓 Master's student in **Digital Engineering for Healthcare Professions**
 - ⚡ Background in **Electrical & Biomedical Engineering**
-- 🩺 Focused on **connected medical devices, embedded systems, and data-driven healthcare**
-- 🤖 Currently deepening my skills in **Machine Learning & AI for healthcare applications**
-- 🌱 Building my GitHub portfolio this summer ahead of my **PFE (final-year) internship search**
-
+-  Focused on **connected medical devices, embedded systems, and data-driven healthcare**
+-  Currently deepening my skills in **Machine Learning & AI for healthcare applications**
 ---
 
-### 🔬 Flagship Project
+###  Flagship Project
 
 <a href="https://github.com/Sihame-health/ecg-classifier">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sihame-health&repo=ecg-classifier&theme=default" />
@@ -74,7 +72,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sihame-health&show_icons=true&theme=default&hide_border=true" width="48%"/>
@@ -83,7 +81,7 @@
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 - Digital health systems and connected medical devices
 - IoT-based healthcare monitoring
 - Machine Learning & AI for healthcare applications
