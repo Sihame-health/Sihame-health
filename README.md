@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Siham 👋</h1>
+<h1 align="center">Hi, I'm Siham </h1>
 <h3 align="center">Electrical & Biomedical Engineer → Digital Health, IoT & ML</h3>
 
 <p align="center">
