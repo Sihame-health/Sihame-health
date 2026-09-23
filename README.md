@@ -62,22 +62,12 @@
 **Digital Health & IoT (Master's)**
 - 🧊 **Flexible Medical Refrigerator** — IoT-based cooling system with adaptive modes based on stored medical products
 - 🔔 **Healthcare Communication API** — Built in C#, enabling real-time notifications between doctors, nurses, and pharmacists
-- 🌱 **Botanical Incubator** — Embedded system for climate-controlled plant growth
 
 **Biomedical Engineering (Bachelor's)**
 - ❤️ **Smart ECG Holter** — Improved notch filters, integrated WiFi module for real-time patient-doctor communication, PCB designed on Proteus
 
 **Electrical Engineering (Associate's)**
 - 🏠 **Smart Home System** — Early work on home automation and sensors
-
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sihame-health&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sihame-health&hide_border=true" width="48%"/>
-</p>
 
 ---
 
