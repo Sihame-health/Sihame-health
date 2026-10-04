@@ -18,7 +18,6 @@
 ###  Flagship Project
 
 <a href="https://github.com/Sihame-health/ecg-classifier">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sihame-health&repo=ecg-classifier&theme=default" />
 </a>
 
 🔗 **[Essayer la démo en ligne](https://ecg-classifier-bys-a-yloo.onrender.com/)**
