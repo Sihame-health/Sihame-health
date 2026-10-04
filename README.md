@@ -21,7 +21,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sihame-health&repo=ecg-classifier&theme=default" />
 </a>
 
-**ECG Classifier** — Deployed web app that classifies ECG images as Normal/Abnormal using a MobileNetV2 deep learning model (96.9% AUC), with a FastAPI backend and an ASP.NET Core frontend, live on Railway.
+**ECG Classifier** — Deployed web app that classifies ECG images as Normal/Abnormal using a MobileNetV2 deep learning model (96.9% AUC), with a FastAPI backend and an ASP.NET Core frontend, live on Render.
 
 <br clear="left"/>
 
