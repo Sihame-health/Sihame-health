@@ -17,9 +17,6 @@
 
 ###  Flagship Project
 
-<a href="https://github.com/Sihame-health/ecg-classifier">
-</a>
-
 🔗 **[Essayer la démo en ligne](https://ecg-classifier-bys-a-yloo.onrender.com/)**
 
 **ECG Classifier** — Deployed web app that classifies ECG images as Normal/Abnormal using a MobileNetV2 deep learning model, with a FastAPI backend and an ASP.NET Core frontend, live on Render.
