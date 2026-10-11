@@ -66,7 +66,7 @@
 - 🔔 **Healthcare Communication API** — Built in C#, enabling real-time notifications between doctors, nurses, and pharmacists
 
 **Biomedical Engineering (Bachelor's)**
-- ❤️ **Smart ECG Holter** — Improved notch filters, integrated WiFi module for real-time patient-doctor communication, PCB designed on Proteus
+- ❤️ **Smart ECG Holter** — Improved notch filters, integrated BT module for real-time patient-doctor communication, PCB designed on Proteus
 
 **Electrical Engineering (Associate's)**
 - 🏠 **Smart Home System** — Early work on home automation and sensors
