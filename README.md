@@ -76,7 +76,7 @@ The current implementation classifies individual ECG images as **Normal or Abnor
 
 **Biomedical Engineering — Bachelor's Project**
 
-- ❤️ **Smart ECG Holter** — Academic prototype exploring ECG signal acquisition, notch filtering, Bluetooth transmission, and PCB design using Proteus. This project sparked my interest in exploring AI-assisted ECG analysis.
+- ❤️ **[Smart ECG Holter](https://github.com/Sihame-health/ECG-Holter-Prototype)** — Academic prototype exploring ECG signal acquisition, notch filtering, Bluetooth transmission, and PCB design using Proteus. This project sparked my interest in exploring AI-assisted ECG analysis.
 
 **Electrical Engineering — Associate's Projects**
 
